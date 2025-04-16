@@ -1,9 +1,6 @@
 ## Leandro Oliveira  
-###### Full Stack Developer - React.js | Node.js | AWS
+###### Fullstack Developer | ReactJS | NodeJS | Typescript | Docker | AWS
 
-
-⚙️ Atualmente trabalhando como DEV BACKEND NODEJS.  
-🌐 Trabalho com programação desde 2018.  
 
 <div style="display: inline_block;">
 <img align="center" height="95" widht="95" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
